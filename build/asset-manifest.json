@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.279dc796.css",
+    "main.js": "/static/js/main.3d4e4e96.js",
+    "static/js/787.b597a222.chunk.js": "/static/js/787.b597a222.chunk.js",
+    "static/media/first-website.png": "/static/media/first-website.b4aa3585f094e54c3863.png",
+    "static/media/nixed-info.png": "/static/media/nixed-info.fb97d60c963dcfba7edc.png",
+    "static/media/task-tally.png": "/static/media/task-tally.f527f1e47334e7ce02a4.png",
+    "static/media/game-con.png": "/static/media/game-con.4a07c2e287955a509fe3.png",
+    "index.html": "/index.html",
+    "main.279dc796.css.map": "/static/css/main.279dc796.css.map",
+    "main.3d4e4e96.js.map": "/static/js/main.3d4e4e96.js.map",
+    "787.b597a222.chunk.js.map": "/static/js/787.b597a222.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.279dc796.css",
+    "static/js/main.3d4e4e96.js"
+  ]
+}
