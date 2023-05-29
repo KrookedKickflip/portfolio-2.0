@@ -1,8 +1,9 @@
 import React from 'react';
+import '../App.css'
 
 const Header = () => {
   return (
-    <header classname='header'>
+    <header className='header'>
       Portfolio
     </header>
   );

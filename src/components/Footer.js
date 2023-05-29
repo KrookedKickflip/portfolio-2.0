@@ -1,9 +1,10 @@
 import React from 'react';
+import '../App.css'
 
 const Footer = () => {
   return (
-    <footer classname='footer'>
-      Your mom
+    <footer className='footer'>
+      Place holder text, dont @ me
     </footer>
   );
 };
